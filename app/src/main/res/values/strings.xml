@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SandwinchBuilderPattern</string>
+    <string name="baguette_label_button">barra de pan</string>
+    <string name="bagel_label_button">bagel</string>
+    <string name="bread_title_label">Tipo de pan</string>
+    <string name="ingredients_label">Ingredientes</string>
+    <string name="Ham_label">Jamón</string>
+    <string name="cheese_label">Queso</string>
+    <string name="salt_label">Sal</string>
+    <string name="ok_label">OK</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="toasted_label">Tostado</string>
+    <string name="total_kcal">Total de calorias %d</string>
+</resources>
